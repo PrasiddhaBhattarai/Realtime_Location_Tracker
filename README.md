@@ -16,6 +16,11 @@ This is a real-time tracking application built with Node.js, Express, Socket.IO,
 -   Leaflet
 -   EJS (Embedded JavaScript templates)
 
+## LINK FOR THE WEBSITE
+```
+https://realtime-location-tracker-h4li.onrender.com/
+```
+
 ## Installation
 
 1.  Clone the repository:
